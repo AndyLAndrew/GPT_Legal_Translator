@@ -54,13 +54,13 @@ ___
 Python 3.9.14
 
 Libraries Used:
-openai
-bs4
-requests
-random
-PySimpleGUI
-threading
-re
+openai,
+bs4,
+requests,
+random,
+PySimpleGUI,
+threading,
+re,
 nltk
 
 System Version: macOS 12.6
